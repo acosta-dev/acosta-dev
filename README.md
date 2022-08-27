@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Orelbi Acosta
-- 👀 I'm a Software Developer with strong focus on backend web development.
+- 👀 I'm a Full Stack Software Developer Engineer.
 - 📫 How to reach me?: orelbi088@gmail.com
 
 
