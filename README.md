@@ -27,6 +27,7 @@
 
 <!--Intro start-->
 - 📫 Feel free to reach me out **orelbi088@gmail.com**
+- :octocat: [My Resume](https://drive.google.com/file/d/1Vu6Mpobmv2_Jxihtlifct8WXQ6pNOPH6/view?usp=sharing)
 <!--Intro end-->
 
 
